@@ -49,7 +49,7 @@ class _StoryPageState extends State<StoryPage> {
                     style: TextStyle(
                       fontSize: 25.0,
                       color: Colors.white,
-                    //TODO: Step 10 - use the storyBrain to get the first story title and display it in this Text Widget.
+                    //Done Step 10 - use the storyBrain to get the first story title and display it in this Text Widget.
 
                     ),
                   ),
